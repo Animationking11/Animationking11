@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Animationking11
+- 👀 I’m currently making a games website
+- 🌱 I’m currently learning HTML, CSS, JS and Java
+- 📫 You can reach me at https://odd.gay
